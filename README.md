@@ -2,6 +2,11 @@
 
 A comprehensive real estate management system built with Vue 3, Vite, Pinia, and Vue Router. Features include inventory management, CRM, transaction tracking, and automated commission calculations.
 
+Live: https://realestate-khaki-sigma.vercel.app/
+
+<img width="1902" height="1082" alt="image" src="https://github.com/user-attachments/assets/fa894872-51f8-415d-89c0-934aabd38631" />
+
+
 ## 🌟 Features
 
 ### Authentication & Access Control
@@ -120,10 +125,4 @@ Create a `.env` file for custom configuration:
 VITE_APP_TITLE=RealEstate Pro
 ```
 
-## 📄 License
 
-MIT License
-
-## 👤 Author
-
-Built with Vue 3 + Vite
